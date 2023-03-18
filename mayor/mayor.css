@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #666666;
+}
+
+#content {
+  width: 50%;
+  margin: 10px auto;
+  padding: 5px 20px;
+  background: #ffffff;
+  border: 1px solid #000000;
+}
+
+label {
+  display: block;
+  width: 10em;
+  text-align: right;
+  padding-right: 1em;
+  float: left;
+}
+
+#action_buttons {
+  text-align: center;
+}
+
+#resultado {
+  color: blue;
+  text-align: center;
+}
+
+br {
+  clear: left;
+}
